@@ -1,0 +1,67 @@
+User-agent: *
+Disallow: /_adds/
+Disallow: /_home/
+Disallow: /30mmarquitectura-COPB-construccion/
+Disallow: /abejas_mariola_y_meliponas/
+Disallow: /asfaltos-jyj/
+Disallow: /autorepuestos_parobe_rys/
+Disallow: /comparsa_buen_ritmo/
+Disallow: /opticas_opticol/
+Disallow: /ortopedica_genesaret/
+Disallow: /ortopedica_genesaret_heredia/
+Disallow: /portones-wb/
+Disallow: /servicio-tecnico-alme/
+Disallow: /taller_hermanos_bonilla/
+Disallow: /tienda_solash/
+Disallow: /alberto-solis/
+Disallow: /auto-accesorios-dk/
+Disallow: /mantenimiento-y-remodelaciones-g3/
+Disallow: /movimientos-de-tierra-romeros/ <br> 
+Disallow: /play-Channel-iptv/ <br> 
+Disallow: /optica-krystal/ <br> 
+Disallow: /ws-makeup/ <br> 
+Disallow: /auto-repuestos-cyh/ <br> 
+Disallow: /jw-sublimacion/ <br> 
+Disallow: /frutas-verduras-fenix/ <br> 
+Disallow: /optica-augen/ <br> 
+Disallow: /cielo-tico-studios/ <br> 
+Disallow: /fancy-makeup-and-cosmetics/ <br> 
+Disallow: /safe360/ <br> 
+Disallow: /adecorsa-real-estate/ <br> 
+Disallow: /mariscos-y-mas/ <br> 
+Disallow: /redes-deportivas-arce/ <br> 
+Disallow: /z-pinturas/ <br> 
+Disallow: /fumigadora-cruzmar/ <br> 
+Disallow: /frutas-deshidratadas-GAIA/ <br> 
+Disallow: /orh-rent-a-house/ <br> 
+Disallow: /vales-clean/ <br> 
+Disallow: /gas-express-del-norte/ <br> 
+Disallow: /prefabricados-economicos/ <br> 
+Disallow: /lijadora-y-pulidora-mym/ <br> 
+Disallow: /motorepuestos-pym/ <br> 
+Disallow: /libreria-y-bazar-la-mini/ <br> 
+Disallow: /taller-agroequipos-la-meseta/ <br> 
+Disallow: /verduleria-minisuper-neno/ <br> 
+Disallow: /ciclo-frailes/ <br> 
+Disallow: /parabrisas-henry-alajuela/ <br> 
+Disallow: /karaoke-son-guanacasteco/ <br> 
+Disallow: /constructora-maquimo/ <br> 
+Disallow: /gruas-y-plataformas-24-7/ <br> 
+Disallow: /gs-producciones-cr/ <br> 
+Disallow: /nape-repuestos-y-autodecoracion/ <br> 
+Disallow: /centro-pedagogico-integral-santiago/ <br> 
+Disallow: /506-healthy-life/ <br> 
+Disallow: /sl-studio/ <br> 
+Disallow: /tecnotienda-online/ <br> 
+Disallow: /sucasa-cortinas-y-persianas/ <br>
+Disallow: /sanitarios-rys/ <br> 
+Disallow: /xio-nutri-cosmetica/ <br> 
+Disallow: /moto-tienda-costa-rica/ <br> 
+Disallow: /zuplement-store/ <br> 
+Disallow: /rancho-camacho/ <br> 
+Disallow: /destaqueos-lyg/ <br> 
+Disallow: /cimarrona-heredia-por-media-calle/ <br> 
+Disallow: /water-life/ <br> 
+Disallow: /remodelaciones-carlos-leiton/ <br> 
+Disallow: /materiales_prefabricados_piro/ <br> 
+Disallow: /soda_ginos/ <br> Sitemap: https://www.duo-s.com/sitemap.xml
