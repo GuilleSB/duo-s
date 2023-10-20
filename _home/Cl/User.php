@@ -78,7 +78,7 @@ class Cl_User
 			if((!$email) || (!$password) ) {
 				throw new Exception( LOGIN_FIELDS_MISSING );
 			}
-			$password = md5( $password );
+			//$password = md5( $password );
 			$query = "SELECT user_id, name, email, created FROM users where email = '$email' and password = '$password' ";
 			$result = mysqli_query($this->_con, $query);
 			$data = mysqli_fetch_assoc($result);

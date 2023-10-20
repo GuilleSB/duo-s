@@ -20,7 +20,7 @@
         font-weight:700;
     }
     .request_list>.request>li{
-        dispay: block;
+        display: block;
         margin:auto;
     }
     div>a:visited{
